@@ -6,7 +6,7 @@
 
 This repository holds the source code for the Untapped Island REST API. Currently, the API is hosted on AWS using Elastic Beanstalk. The PostgreSQL database is hosted using Amazon RDS.
 
-Full documentation of each route is currently in development. Cards can be queried by making a GET request to the `/cards` route.
+Sample queries for the API are available in [Postman](https://www.postman.com/grey-moon-312243/workspace/untapped-island-api/overview). Full route documentation is currently in development. Cards can be queried by making a GET request to the `/cards` route.
 
 ## Technology / Architecture
 
